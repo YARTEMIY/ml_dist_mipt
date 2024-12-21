@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints*
+.venv
+
+/laboratory/lab1_linear_regression/sample_submission.csv
+/laboratory/lab1_linear_regression/submission.csv
+/laboratory/lab1_linear_regression/test.csv
+/laboratory/lab1_linear_regression/train.csv
+
+/laboratory/lab2/DOTA2_TEST_features.csv
+/laboratory/lab2/DOTA2_TRAIN_features.csv
+/laboratory/lab2/DOTA2_TRAIN_targets.csv
+/laboratory/lab2/sample_submission_test.csv
+/laboratory/lab2/sample_submission.csv
+/laboratory/lab2/tome_of_knowledge.jsonl
+
+/laboratory/lab3/images
+/laboratory/lab3/train_labels.csv
