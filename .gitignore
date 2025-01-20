@@ -18,4 +18,10 @@ __pycache__/
 /laboratory/lab2/tome_of_knowledge.jsonl
 
 /laboratory/lab3/images
+/laboratory/lab3/augmented_images
+/laboratory/lab3/123.ipynb
+/laboratory/lab3/hw1.ipynb
+/laboratory/lab3/test.ipynb
+/laboratory/lab3/test_predictions.csv
+/laboratory/lab3/augmented_train_labels.csv
 /laboratory/lab3/train_labels.csv
